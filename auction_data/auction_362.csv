@@ -1,0 +1,20 @@
+bidder,bid_amount,bid_time,starting_price,automatic
+r***f(10),$217.50,2 Mar 2019 at 12:23:27PM PST,$175.00,False
+a***2(95),$215.00,2 Mar 2019 at 11:59:11AM PST,$175.00,False
+r***f(10),$213.00,2 Mar 2019 at 12:23:14PM PST,$175.00,False
+r***f(10),$212.50,2 Mar 2019 at 12:23:14PM PST,$175.00,True
+a***2(95),$210.00,26 Feb 2019 at 9:40:10AM PST,$175.00,False
+i***i(8),$209.00,2 Mar 2019 at 7:37:50AM PST,$175.00,False
+a***2(95),$206.50,26 Feb 2019 at 9:40:10AM PST,$175.00,True
+i***i(8),$204.00,2 Mar 2019 at 7:37:46AM PST,$175.00,False
+a***2(95),$201.50,26 Feb 2019 at 9:40:10AM PST,$175.00,True
+i***i(8),$199.00,2 Mar 2019 at 7:37:41AM PST,$175.00,False
+a***2(95),$196.50,26 Feb 2019 at 9:40:10AM PST,$175.00,True
+i***i(8),$194.00,2 Mar 2019 at 7:37:37AM PST,$175.00,False
+a***2(95),$188.50,26 Feb 2019 at 9:40:10AM PST,$175.00,True
+i***i(8),$186.00,2 Mar 2019 at 7:37:31AM PST,$175.00,False
+a***2(95),$180.50,26 Feb 2019 at 9:40:10AM PST,$175.00,True
+i***i(8),$178.00,2 Mar 2019 at 7:37:25AM PST,$175.00,False
+i***i(8),$175.00,2 Mar 2019 at 7:37:25AM PST,$175.00,True
+Starting Price,$175.00,25 Feb 2019 at 12:46:11PM PST,$175.00,False
+1***z(0)Not a registered user,Cancelled:$203.00,Bid:28 Feb 2019 at 11:25:55AM PSTCancelled:28 Feb 2019 at 12:49:54PM PST,$175.00,False

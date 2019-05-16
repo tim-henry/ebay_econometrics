@@ -1,0 +1,9 @@
+bidder,bid_amount,bid_time,starting_price,automatic
+r***l(222),$173.50,24 Mar 2019 at 1:51:17PM PDT,$150.00,False
+w***i(15),$171.00,25 Mar 2019 at 5:19:25PM PDT,$150.00,False
+r***l(222),$168.15,24 Mar 2019 at 1:51:17PM PDT,$150.00,True
+w***i(15),$165.65,25 Mar 2019 at 5:18:31PM PDT,$150.00,False
+w***i(15),$157.50,25 Mar 2019 at 5:18:31PM PDT,$150.00,True
+r***l(222),$155.00,24 Mar 2019 at 1:49:05PM PDT,$150.00,False
+r***l(222),$150.00,24 Mar 2019 at 1:49:05PM PDT,$150.00,True
+Starting Price,$150.00,19 Mar 2019 at 8:06:20AM PDT,$150.00,False

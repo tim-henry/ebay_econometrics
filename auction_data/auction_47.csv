@@ -1,0 +1,31 @@
+bidder,bid_amount,bid_time,starting_price,automatic
+r***r(3),$183.50,7 Mar 2019 at 5:44:44AM PST,$123.00,False
+e***a(11),$181.00,6 Mar 2019 at 4:40:00PM PST,$123.00,False
+r***r(3),$178.50,6 Mar 2019 at 2:55:56PM PST,$123.00,False
+e***a(11),$176.00,6 Mar 2019 at 1:48:25PM PST,$123.00,False
+r***r(3),$173.50,6 Mar 2019 at 5:13:13AM PST,$123.00,False
+e***a(11),$171.00,5 Mar 2019 at 3:51:19PM PST,$123.00,False
+r***r(3),$171.00,6 Mar 2019 at 5:13:05AM PST,$123.00,False
+e***a(11),$168.50,5 Mar 2019 at 3:51:19PM PST,$123.00,True
+r***r(3),$166.00,4 Mar 2019 at 2:51:30PM PST,$123.00,False
+e***s(119),$165.00,4 Mar 2019 at 6:25:16AM PST,$123.00,False
+e***s(119),$163.50,4 Mar 2019 at 6:25:16AM PST,$123.00,True
+r***r(3),$161.00,4 Mar 2019 at 2:51:26PM PST,$123.00,False
+e***s(119),$158.50,4 Mar 2019 at 6:25:16AM PST,$123.00,True
+r***r(3),$156.00,4 Mar 2019 at 2:51:23PM PST,$123.00,False
+e***s(119),$153.50,4 Mar 2019 at 6:25:16AM PST,$123.00,True
+r***r(3),$151.00,4 Mar 2019 at 2:51:19PM PST,$123.00,False
+e***s(119),$148.50,4 Mar 2019 at 6:25:16AM PST,$123.00,True
+r***r(3),$146.00,4 Mar 2019 at 2:51:09PM PST,$123.00,False
+e***s(119),$143.50,4 Mar 2019 at 6:25:16AM PST,$123.00,True
+r***r(3),$141.00,4 Mar 2019 at 2:51:03PM PST,$123.00,False
+e***s(119),$138.50,4 Mar 2019 at 6:25:16AM PST,$123.00,True
+r***r(3),$136.00,4 Mar 2019 at 2:49:38PM PST,$123.00,False
+e***s(119),$133.50,4 Mar 2019 at 6:25:16AM PST,$123.00,True
+e***i(3),$131.00,4 Mar 2019 at 1:07:03AM PST,$123.00,False
+e***s(119),$132.50,4 Mar 2019 at 6:25:16AM PST,$123.00,True
+e***i(3),$130.00,3 Mar 2019 at 11:29:43PM PST,$123.00,False
+e***i(3),$125.50,3 Mar 2019 at 11:29:43PM PST,$123.00,True
+9***j(292),$123.00,3 Mar 2019 at 7:26:11PM PST,$123.00,False
+9***j(292),$123.00,3 Mar 2019 at 7:26:11PM PST,$123.00,True
+Starting Price,$123.00,3 Mar 2019 at 7:09:47PM PST,$123.00,False

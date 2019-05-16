@@ -1,0 +1,8 @@
+bidder,bid_amount,bid_time,starting_price,automatic
+-***e(6),$162.50,22 Feb 2019 at 5:58:24PM PST,$155.00,False
+s***w(2),$160.00,22 Feb 2019 at 4:35:05PM PST,$155.00,False
+-***e(6),$160.00,22 Feb 2019 at 5:58:21PM PST,$155.00,False
+s***w(2),$157.50,22 Feb 2019 at 4:35:05PM PST,$155.00,True
+-***e(6),$155.00,20 Feb 2019 at 3:04:32PM PST,$155.00,False
+-***e(6),$155.00,20 Feb 2019 at 3:04:32PM PST,$155.00,True
+Starting Price,$155.00,18 Feb 2019 at 3:27:27PM PST,$155.00,False

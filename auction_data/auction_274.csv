@@ -1,0 +1,9 @@
+bidder,bid_amount,bid_time,starting_price,automatic
+8***i(0),$149.50,3 May 2019 at 10:49:21AM PDT,$110.00,False
+o***2(2209),$147.00,3 May 2019 at 10:49:07AM PDT,$110.00,False
+o***2(2209),$137.50,3 May 2019 at 10:49:07AM PDT,$110.00,True
+8***i(0),$135.00,2 May 2019 at 6:06:19PM PDT,$110.00,False
+o***2(2209),$132.50,3 May 2019 at 10:49:07AM PDT,$110.00,True
+8***i(0),$130.00,2 May 2019 at 4:56:55PM PDT,$110.00,False
+8***i(0),$110.00,2 May 2019 at 4:56:55PM PDT,$110.00,True
+Starting Price,$110.00,26 Apr 2019 at 10:49:31AM PDT,$110.00,False

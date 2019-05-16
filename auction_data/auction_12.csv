@@ -1,0 +1,17 @@
+bidder,bid_amount,bid_time,starting_price,automatic
+n***n(68),$180.01,9 Apr 2019 at 4:11:41PM PDT,$150.00,False
+v***v(267),$178.01,9 Apr 2019 at 4:31:38PM PDT,$150.00,False
+n***n(68),$175.50,9 Apr 2019 at 4:11:41PM PDT,$150.00,True
+e***e(135),$173.00,9 Apr 2019 at 4:08:57PM PDT,$150.00,False
+e***e(135),$172.52,9 Apr 2019 at 4:08:57PM PDT,$150.00,True
+v***v(267),$170.02,9 Apr 2019 at 3:43:28PM PDT,$150.00,False
+e***e(135),$168.00,9 Apr 2019 at 4:08:52PM PDT,$150.00,False
+v***v(267),$165.50,9 Apr 2019 at 3:43:28PM PDT,$150.00,True
+a***a(20),$163.00,8 Apr 2019 at 6:28:07AM PDT,$150.00,False
+v***v(267),$160.50,9 Apr 2019 at 3:43:28PM PDT,$150.00,True
+a***a(20),$158.00,8 Apr 2019 at 6:28:04AM PDT,$150.00,False
+a***a(20),$155.50,8 Apr 2019 at 6:28:04AM PDT,$150.00,True
+a***g(46),$153.00,5 Apr 2019 at 12:25:42AM PDT,$150.00,False
+a***g(46),$150.00,5 Apr 2019 at 12:25:42AM PDT,$150.00,True
+Starting Price,$150.00,4 Apr 2019 at 5:23:30PM PDT,$150.00,False
+h***7(0)Not a registered user,Cancelled:$500.00,Bid:9 Apr 2019 at 12:20:59PM PDTCancelled:9 Apr 2019 at 1:25:53PM PDT,$150.00,False

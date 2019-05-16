@@ -1,0 +1,17 @@
+bidder,bid_amount,bid_time,starting_price,automatic
+5***5(4),$148.50,10 Mar 2019 at 1:52:09PM PDT,$120.00,False
+a***1(156),$146.00,10 Mar 2019 at 2:48:12PM PDT,$120.00,False
+5***5(4),$143.50,10 Mar 2019 at 1:52:09PM PDT,$120.00,True
+s***s(48),$141.00,10 Mar 2019 at 2:48:10PM PDT,$120.00,False
+5***5(4),$138.00,10 Mar 2019 at 1:52:09PM PDT,$120.00,True
+-***-(0),$135.50,10 Mar 2019 at 6:01:51AM PDT,$120.00,False
+7***r(58),$133.00,9 Mar 2019 at 10:07:52PM PST,$120.00,False
+-***-(0),$132.50,10 Mar 2019 at 6:01:37AM PDT,$120.00,False
+7***r(58),$130.00,9 Mar 2019 at 10:07:52PM PST,$120.00,True
+-***-(0),$127.50,8 Mar 2019 at 6:24:59PM PST,$120.00,False
+3***q(0),$125.00,8 Mar 2019 at 2:55:52PM PST,$120.00,False
+s***s(48),$123.00,7 Mar 2019 at 2:47:45PM PST,$120.00,False
+s***s(48),$122.50,7 Mar 2019 at 2:47:45PM PST,$120.00,True
+l***8(370),$120.00,7 Mar 2019 at 2:16:06PM PST,$120.00,False
+l***8(370),$120.00,7 Mar 2019 at 2:16:06PM PST,$120.00,True
+Starting Price,$120.00,7 Mar 2019 at 1:48:17PM PST,$120.00,False

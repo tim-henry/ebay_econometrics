@@ -1,0 +1,33 @@
+bidder,bid_amount,bid_time,starting_price,automatic
+n***n(0),$255.00,25 Jan 2019 at 4:25:04AM PST,$70.00,False
+e***_(651),$250.00,3 Feb 2019 at 8:23:22PM PST,$70.00,False
+n***n(0),$232.50,25 Jan 2019 at 4:25:04AM PST,$70.00,True
+e***_(651),$230.00,3 Feb 2019 at 8:23:18PM PST,$70.00,False
+n***n(0),$227.50,25 Jan 2019 at 4:25:04AM PST,$70.00,True
+e***_(651),$225.00,3 Feb 2019 at 8:23:12PM PST,$70.00,False
+n***n(0),$202.50,25 Jan 2019 at 4:25:04AM PST,$70.00,True
+7***7(0),$200.00,25 Jan 2019 at 12:32:49PM PST,$70.00,False
+n***n(0),$145.50,25 Jan 2019 at 4:25:04AM PST,$70.00,True
+7***7(0),$143.00,25 Jan 2019 at 12:32:35PM PST,$70.00,False
+n***n(0),$130.50,25 Jan 2019 at 4:25:04AM PST,$70.00,True
+7***7(0),$128.00,25 Jan 2019 at 12:32:28PM PST,$70.00,False
+n***n(0),$125.50,25 Jan 2019 at 4:25:04AM PST,$70.00,True
+7***7(0),$123.00,25 Jan 2019 at 12:32:05PM PST,$70.00,False
+n***n(0),$117.50,25 Jan 2019 at 4:25:04AM PST,$70.00,True
+7***7(0),$115.00,25 Jan 2019 at 12:31:52PM PST,$70.00,False
+n***n(0),$112.50,25 Jan 2019 at 4:25:04AM PST,$70.00,True
+t***r(0),$110.00,25 Jan 2019 at 11:07:40AM PST,$70.00,False
+n***n(0),$102.50,25 Jan 2019 at 4:25:04AM PST,$70.00,True
+t***r(0),$100.00,25 Jan 2019 at 11:06:58AM PST,$70.00,False
+n***n(0),$98.00,25 Jan 2019 at 4:25:04AM PST,$70.00,True
+t***r(0),$97.00,25 Jan 2019 at 11:06:45AM PST,$70.00,False
+n***n(0),$96.00,25 Jan 2019 at 4:25:04AM PST,$70.00,True
+b***t(3),$95.00,24 Jan 2019 at 11:52:33PM PST,$70.00,False
+b***t(3),$76.00,24 Jan 2019 at 11:52:33PM PST,$70.00,True
+n***n(0),$75.00,25 Jan 2019 at 4:24:35AM PST,$70.00,False
+b***t(3),$74.00,24 Jan 2019 at 11:52:33PM PST,$70.00,True
+e***e(0),$73.00,25 Jan 2019 at 2:56:44AM PST,$70.00,False
+b***t(3),$72.00,24 Jan 2019 at 11:52:33PM PST,$70.00,True
+e***e(0),$71.00,25 Jan 2019 at 2:56:37AM PST,$70.00,False
+e***e(0),$70.00,25 Jan 2019 at 2:56:37AM PST,$70.00,True
+Starting Price,$70.00,24 Jan 2019 at 8:43:22PM PST,$70.00,False

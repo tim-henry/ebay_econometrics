@@ -1,0 +1,35 @@
+bidder,bid_amount,bid_time,starting_price,automatic
+n***2(1),$217.51,1 Mar 2019 at 11:11:38AM PST,$125.00,False
+i***t(118),$215.01,1 Mar 2019 at 5:39:26AM PST,$125.00,False
+8***8(5),$215.00,1 Mar 2019 at 5:36:40AM PST,$125.00,False
+8***8(5),$212.51,1 Mar 2019 at 5:36:40AM PST,$125.00,True
+i***t(118),$210.01,1 Mar 2019 at 5:39:00AM PST,$125.00,False
+8***8(5),$205.53,1 Mar 2019 at 5:36:40AM PST,$125.00,True
+i***t(118),$203.03,1 Mar 2019 at 5:20:45AM PST,$125.00,False
+i***t(118),$202.50,1 Mar 2019 at 5:20:45AM PST,$125.00,True
+8***8(5),$200.00,1 Mar 2019 at 5:20:05AM PST,$125.00,False
+8***8(5),$194.53,1 Mar 2019 at 5:20:05AM PST,$125.00,True
+i***t(118),$192.03,1 Mar 2019 at 4:58:46AM PST,$125.00,False
+i***t(118),$175.00,1 Mar 2019 at 4:58:46AM PST,$125.00,True
+a***l(0),$172.50,1 Mar 2019 at 4:58:03AM PST,$125.00,False
+i***t(118),$170.00,28 Feb 2019 at 4:27:33PM PST,$125.00,False
+n***2(1),$170.00,28 Feb 2019 at 7:18:28PM PST,$125.00,False
+i***t(118),$167.50,28 Feb 2019 at 4:27:33PM PST,$125.00,True
+n***2(1),$165.00,28 Feb 2019 at 7:18:19PM PST,$125.00,False
+i***t(118),$162.50,28 Feb 2019 at 4:27:33PM PST,$125.00,True
+n***2(1),$160.00,28 Feb 2019 at 7:17:50PM PST,$125.00,False
+i***t(118),$157.50,28 Feb 2019 at 4:27:33PM PST,$125.00,True
+n***2(1),$155.00,28 Feb 2019 at 4:13:23PM PST,$125.00,False
+i***t(118),$152.50,28 Feb 2019 at 4:05:42PM PST,$125.00,False
+n***2(1),$150.00,24 Feb 2019 at 6:28:55PM PST,$125.00,False
+i***t(118),$147.50,28 Feb 2019 at 4:05:34PM PST,$125.00,False
+n***2(1),$145.00,24 Feb 2019 at 6:28:55PM PST,$125.00,True
+i***t(118),$142.50,28 Feb 2019 at 4:05:26PM PST,$125.00,False
+n***2(1),$140.00,24 Feb 2019 at 6:28:55PM PST,$125.00,True
+i***t(118),$137.50,28 Feb 2019 at 4:05:20PM PST,$125.00,False
+n***2(1),$135.00,24 Feb 2019 at 6:28:55PM PST,$125.00,True
+4***b(693),$132.50,24 Feb 2019 at 5:56:10PM PST,$125.00,False
+n***2(1),$130.00,24 Feb 2019 at 10:22:25AM PST,$125.00,False
+4***b(693),$127.50,24 Feb 2019 at 5:56:06PM PST,$125.00,False
+4***b(693),$125.00,24 Feb 2019 at 5:56:06PM PST,$125.00,True
+Starting Price,$125.00,24 Feb 2019 at 9:17:24AM PST,$125.00,False

@@ -1,0 +1,26 @@
+bidder,bid_amount,bid_time,starting_price,automatic
+5***_(12),$175.00,11 Apr 2019 at 4:11:31PM PDT,$119.00,False
+-***-(0),$172.50,14 Apr 2019 at 6:30:54AM PDT,$119.00,False
+5***_(12),$170.00,10 Apr 2019 at 3:21:24PM PDT,$119.00,False
+-***-(0),$170.00,14 Apr 2019 at 6:30:35AM PDT,$119.00,False
+5***_(12),$167.50,10 Apr 2019 at 3:21:24PM PDT,$119.00,True
+2***o(0),$165.00,9 Apr 2019 at 1:27:28PM PDT,$119.00,False
+2***o(0),$164.50,9 Apr 2019 at 1:27:28PM PDT,$119.00,True
+s***a(75),$162.00,8 Apr 2019 at 9:31:13PM PDT,$119.00,False
+2***o(0),$161.00,9 Apr 2019 at 1:27:24PM PDT,$119.00,False
+s***a(75),$158.50,8 Apr 2019 at 9:31:13PM PDT,$119.00,True
+2***o(0),$156.00,9 Apr 2019 at 1:27:09PM PDT,$119.00,False
+s***a(75),$153.49,8 Apr 2019 at 9:31:13PM PDT,$119.00,True
+8***s(0),$150.99,8 Apr 2019 at 9:30:53PM PDT,$119.00,False
+8***s(0),$149.50,8 Apr 2019 at 9:30:53PM PDT,$119.00,True
+s***a(75),$147.00,8 Apr 2019 at 9:31:07PM PDT,$119.00,False
+s***a(75),$137.00,8 Apr 2019 at 9:31:07PM PDT,$119.00,True
+8***s(0),$134.50,8 Apr 2019 at 9:30:31PM PDT,$119.00,False
+s***a(75),$132.00,8 Apr 2019 at 1:19:20PM PDT,$119.00,False
+8***s(0),$131.50,8 Apr 2019 at 9:30:27PM PDT,$119.00,False
+s***a(75),$129.00,8 Apr 2019 at 1:19:20PM PDT,$119.00,True
+8***s(0),$126.50,8 Apr 2019 at 9:30:02PM PDT,$119.00,False
+s***a(75),$124.00,8 Apr 2019 at 1:46:08AM PDT,$119.00,False
+8***s(0),$121.50,8 Apr 2019 at 9:29:53PM PDT,$119.00,False
+8***s(0),$119.00,8 Apr 2019 at 9:29:53PM PDT,$119.00,True
+Starting Price,$119.00,7 Apr 2019 at 10:19:32AM PDT,$119.00,False

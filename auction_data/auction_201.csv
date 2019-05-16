@@ -1,0 +1,21 @@
+bidder,bid_amount,bid_time,starting_price,automatic
+s***e(38),$173.50,5 Apr 2019 at 2:50:08PM PDT,$150.00,False
+e***m(0),$171.00,5 Apr 2019 at 2:50:47PM PDT,$150.00,False
+s***e(38),$170.00,5 Apr 2019 at 2:49:40PM PDT,$150.00,False
+s***e(38),$168.50,5 Apr 2019 at 2:49:40PM PDT,$150.00,True
+e***m(0),$166.00,5 Apr 2019 at 2:50:18PM PDT,$150.00,False
+s***e(38),$160.50,5 Apr 2019 at 2:49:40PM PDT,$150.00,True
+e***m(0),$158.00,5 Apr 2019 at 2:49:53PM PDT,$150.00,False
+s***e(38),$155.50,5 Apr 2019 at 2:49:40PM PDT,$150.00,True
+e***m(0),$153.00,5 Apr 2019 at 2:48:34PM PDT,$150.00,False
+e***m(0),$150.00,5 Apr 2019 at 2:48:34PM PDT,$150.00,True
+Starting Price,$150.00,29 Mar 2019 at 2:51:02PM PDT,$150.00,False
+s***e(38),Cancelled:$150.00,Bid:5 Apr 2019 at 2:44:34PM PDTCancelled:5 Apr 2019 at 2:45:32PM PDT,$150.00,False
+t***l(2),Cancelled:$150.00,Bid:5 Apr 2019 at 2:41:35PM PDTCancelled:5 Apr 2019 at 2:43:46PM PDT,$150.00,False
+e***m(0),Cancelled:$150.00,Bid:5 Apr 2019 at 2:37:47PM PDTCancelled:5 Apr 2019 at 2:38:08PM PDT,$150.00,False
+e***m(0),Cancelled:$150.00,Bid:5 Apr 2019 at 2:32:56PM PDTCancelled:5 Apr 2019 at 2:34:47PM PDT,$150.00,False
+e***m(0),Cancelled:$150.00,Bid:5 Apr 2019 at 2:31:45PM PDTCancelled:5 Apr 2019 at 2:32:08PM PDT,$150.00,False
+e***m(0),Cancelled:$150.00,Bid:5 Apr 2019 at 2:29:04PM PDTCancelled:5 Apr 2019 at 2:30:02PM PDT,$150.00,False
+e***m(0),Cancelled:$152.50,Bid:5 Apr 2019 at 2:14:44PM PDTCancelled:5 Apr 2019 at 2:27:05PM PDT,$150.00,False
+s***e(38),Cancelled:$168.00,Bid:5 Apr 2019 at 2:22:27PM PDTCancelled:5 Apr 2019 at 2:26:33PM PDT,$150.00,False
+r***r(469),Cancelled:$150.00,Bid:2 Apr 2019 at 11:10:37PM PDTCancelled:3 Apr 2019 at 3:09:11AM PDT,$150.00,False

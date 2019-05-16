@@ -1,0 +1,34 @@
+bidder,bid_amount,bid_time,starting_price,automatic
+n***i(0),$202.50,19 Mar 2019 at 7:39:31PM PDT,$122.00,False
+5***5(0),$200.00,19 Mar 2019 at 7:37:09PM PDT,$122.00,False
+n***i(0),$197.50,19 Mar 2019 at 7:39:22PM PDT,$122.00,False
+5***5(0),$195.00,19 Mar 2019 at 7:37:09PM PDT,$122.00,True
+n***i(0),$192.50,19 Mar 2019 at 7:39:19PM PDT,$122.00,False
+5***5(0),$190.00,19 Mar 2019 at 7:37:09PM PDT,$122.00,True
+n***i(0),$187.50,19 Mar 2019 at 7:39:12PM PDT,$122.00,False
+5***5(0),$185.00,19 Mar 2019 at 7:37:09PM PDT,$122.00,True
+n***i(0),$182.50,19 Mar 2019 at 7:35:50PM PDT,$122.00,False
+5***5(0),$180.00,19 Mar 2019 at 7:31:24PM PDT,$122.00,False
+n***i(0),$180.00,19 Mar 2019 at 7:35:47PM PDT,$122.00,False
+5***5(0),$177.50,19 Mar 2019 at 7:31:24PM PDT,$122.00,True
+n***i(0),$175.00,19 Mar 2019 at 7:35:42PM PDT,$122.00,False
+5***5(0),$172.50,19 Mar 2019 at 7:31:24PM PDT,$122.00,True
+n***i(0),$170.00,19 Mar 2019 at 7:26:58PM PDT,$122.00,False
+n***i(0),$167.50,19 Mar 2019 at 7:26:58PM PDT,$122.00,True
+5***5(0),$165.00,19 Mar 2019 at 7:25:45PM PDT,$122.00,False
+5***5(0),$162.50,19 Mar 2019 at 7:25:45PM PDT,$122.00,True
+n***i(0),$160.00,19 Mar 2019 at 7:08:17PM PDT,$122.00,False
+n***i(0),$152.50,19 Mar 2019 at 7:08:17PM PDT,$122.00,True
+5***5(0),$150.00,19 Mar 2019 at 6:50:48PM PDT,$122.00,False
+n***i(0),$150.00,19 Mar 2019 at 7:08:08PM PDT,$122.00,False
+5***5(0),$140.50,19 Mar 2019 at 6:50:48PM PDT,$122.00,True
+u***v(7),$138.00,19 Mar 2019 at 2:24:31PM PDT,$122.00,False
+5***5(0),$137.50,19 Mar 2019 at 6:50:48PM PDT,$122.00,True
+u***v(7),$135.00,19 Mar 2019 at 6:46:33AM PDT,$122.00,False
+5***5(0),$133.00,19 Mar 2019 at 6:50:31PM PDT,$122.00,False
+u***v(7),$127.50,19 Mar 2019 at 6:46:33AM PDT,$122.00,True
+5***5(0),$125.00,19 Mar 2019 at 6:50:21PM PDT,$122.00,False
+5***5(0),$124.50,19 Mar 2019 at 6:50:21PM PDT,$122.00,True
+u***v(7),$122.00,19 Mar 2019 at 6:46:18AM PDT,$122.00,False
+u***v(7),$122.00,19 Mar 2019 at 6:46:18AM PDT,$122.00,True
+Starting Price,$122.00,19 Mar 2019 at 6:38:59AM PDT,$122.00,False

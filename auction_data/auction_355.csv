@@ -1,0 +1,34 @@
+bidder,bid_amount,bid_time,starting_price,automatic
+3***b(65),$127.50,11 Feb 2019 at 4:51:35PM PST,$70.00,False
+8***n(0),$125.00,10 Feb 2019 at 1:11:01PM PST,$70.00,False
+d***o(74),$125.00,11 Feb 2019 at 12:55:24PM PST,$70.00,False
+8***n(0),$122.50,10 Feb 2019 at 1:11:01PM PST,$70.00,True
+b***q(35),$120.00,9 Feb 2019 at 7:26:00PM PST,$70.00,False
+b***a(0),$120.00,10 Feb 2019 at 12:02:36AM PST,$70.00,False
+b***q(35),$117.50,9 Feb 2019 at 7:26:00PM PST,$70.00,True
+b***a(0),$115.00,10 Feb 2019 at 12:02:29AM PST,$70.00,False
+b***q(35),$112.50,9 Feb 2019 at 7:26:00PM PST,$70.00,True
+b***a(0),$110.00,10 Feb 2019 at 12:02:25AM PST,$70.00,False
+b***q(35),$107.50,9 Feb 2019 at 7:26:00PM PST,$70.00,True
+b***a(0),$105.00,10 Feb 2019 at 12:02:17AM PST,$70.00,False
+b***q(35),$102.50,9 Feb 2019 at 7:26:00PM PST,$70.00,True
+h***3(6),$100.00,9 Feb 2019 at 5:54:38PM PST,$70.00,False
+b***q(35),$100.00,9 Feb 2019 at 7:25:55PM PST,$70.00,False
+h***3(6),$91.00,9 Feb 2019 at 5:54:38PM PST,$70.00,True
+b***q(35),$90.00,9 Feb 2019 at 7:25:49PM PST,$70.00,False
+h***3(6),$84.00,9 Feb 2019 at 5:54:38PM PST,$70.00,True
+u***a(0),$83.00,8 Feb 2019 at 2:40:38PM PST,$70.00,False
+u***a(0),$80.00,8 Feb 2019 at 2:40:38PM PST,$70.00,True
+3***b(65),$79.00,8 Feb 2019 at 2:39:45PM PST,$70.00,False
+3***b(65),$78.00,8 Feb 2019 at 2:39:45PM PST,$70.00,True
+u***a(0),$77.00,8 Feb 2019 at 10:45:35AM PST,$70.00,False
+d***o(74),$76.00,8 Feb 2019 at 5:47:40AM PST,$70.00,False
+b***r(1),$75.00,7 Feb 2019 at 6:03:04PM PST,$70.00,False
+e***s(0),$74.00,7 Feb 2019 at 8:55:03AM PST,$70.00,False
+e***s(0),$73.00,7 Feb 2019 at 8:55:03AM PST,$70.00,True
+b***r(1),$72.00,7 Feb 2019 at 7:58:57AM PST,$70.00,False
+b***r(1),$71.00,7 Feb 2019 at 7:58:57AM PST,$70.00,True
+6***t(0),$70.00,7 Feb 2019 at 12:12:25AM PST,$70.00,False
+6***t(0),$70.00,7 Feb 2019 at 12:12:25AM PST,$70.00,True
+Starting Price,$70.00,6 Feb 2019 at 9:51:55AM PST,$70.00,False
+0***d(2)Not a registered user,Cancelled:$130.00,Bid:12 Feb 2019 at 11:13:27AM PSTCancelled:12 Feb 2019 at 2:45:03PM PST,$70.00,False
